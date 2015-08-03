@@ -1,0 +1,3 @@
+log:
+  counter:
+    message: Message for producer in production

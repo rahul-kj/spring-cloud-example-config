@@ -1,0 +1,3 @@
+log:
+  consumer:
+    message: Message for consumer for development
